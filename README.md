@@ -1,4 +1,5 @@
 ## Hi there 👋
+Currently working on backend services in nodejs and fastapi
 
 <!--
 **usmansaeed2001/usmansaeed2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
